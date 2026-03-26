@@ -30,5 +30,21 @@ Bu projenin amacı aşağıdaki temel ağ kavramlarını uygulamalı olarak gös
 - 2960 Switch
 - PC-PT istemciler
 
+
+### Project 2 - Static Routing Between Two Networks
+İki farklı LAN ağı, iki router üzerinden static routing kullanılarak birbirine bağlandı.  
+Farklı subnetlerdeki cihazlar arasında başarılı iletişim sağlandı.
+
+## Topoloji
+
+Projede aşağıdaki bileşenler kullanılmıştır:
+
+- 2 adet Router (Cisco 1841)
+- 2 adet Switch (2960)
+- 4 adet PC
+
+---
+
+
 ## Not
 Bu repo zamanla yeni Cisco projeleriyle genişletilecektir.
