@@ -67,7 +67,7 @@ Bu projenin amacı aşağıdaki temel ağ kavramlarını uygulamalı olarak gös
 - 2960 Switch
 - PC-PT istemciler
 
-
+### Proje 3'ü önümüzdeki hafta ekleyeceğim.
 
 
 ## Not
