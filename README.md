@@ -45,6 +45,30 @@ Projede aşağıdaki bileşenler kullanılmıştır:
 
 ---
 
+### Project 3 - Dynamic Routing (RIP v2)
+Bu projede iki farklı yerel ağ, routerlar arasında dinamik yönlendirme kullanılarak birbirine bağlanmıştır.
+
+RIP v2 protokolü sayesinde routerlar ağ bilgilerini otomatik olarak öğrenmiş ve farklı subnetlerdeki cihazlar arasında iletişim sağlanmıştır.
+
+Bağlı istemciler farklı ağlarda olmasına rağmen `ping` testleri ile başarılı şekilde haberleşmiştir.
+
+## Amaç
+Bu projenin amacı aşağıdaki temel ağ kavramlarını uygulamalı olarak göstermektir:
+
+- Dinamik routing (RIP v2)
+- Routerlar arası otomatik route öğrenme
+- Farklı subnetler arasında iletişim
+- Routing table mantığını anlama
+- Convergence (yakınsama) sürecini gözlemleme
+
+## Kullanılan Araçlar
+- Cisco Packet Tracer
+- Cisco 1841 Router
+- 2960 Switch
+- PC-PT istemciler
+
+
+
 
 ## Not
 Bu repo zamanla yeni Cisco projeleriyle genişletilecektir.
