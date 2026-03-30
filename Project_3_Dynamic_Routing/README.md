@@ -98,8 +98,8 @@ network 192.168.3.0
 
 ### Test ve Doğrulama
 # Bağlantı Testleri
-PC0 → PC2 ✅
-PC1 → PC3 ✅
+PC0 → PC2 
+PC1 → PC3 
 Farklı ağlar arası iletişim başarılı
 # Router Bağlantısı
 Router0 ↔ Router1 ping başarılı
