@@ -27,7 +27,7 @@ Bu proje aşağıdaki bileşenleri içermektedir:
 
 ---
 
-## 🧾 IP Adresleme
+##  IP Adresleme
 
 ### Router Arayüzleri
 
