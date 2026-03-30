@@ -25,10 +25,6 @@ Bu proje aşağıdaki bileşenleri içermektedir:
 - 2 adet Switch (2960)  
 - 4 adet PC  
 
-## Topoloji:
-
-![Topology](topology/topology.png)
-
 ---
 
 ## 🧾 IP Adresleme
