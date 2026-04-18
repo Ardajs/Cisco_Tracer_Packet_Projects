@@ -67,30 +67,14 @@ Bu projenin amacı aşağıdaki temel ağ kavramlarını uygulamalı olarak gös
 - 2960 Switch
 - PC-PT istemciler
 
-# Cisco Packet Tracer Projects 🚀
+# Cisco Packet Tracer Projects 
 
 Cisco Packet Tracer üzerinde gerçekleştirdiğim, temel ağ kavramlarından ileri seviye yapılandırmalara kadar uzanan ağ projeleri koleksiyonudur.
 
-## 📋 Genel Bakış
+##  Genel Bakış
 Bu depo, ağ tasarımı, VLAN yönetimi, yönlendirme protokolleri ve ağ güvenliği konularında yaptığım laboratuvar çalışmalarını ve yapılandırma dosyalarını içermektedir.
 
 ---
-
-## 🛠 Projeler
-
-### Project 1 - Basic VLAN Segmentation
-Tek bir switch üzerinde ağ segmentasyonu sağlanmıştır.
-- **VLAN 2 (Office)** ve **VLAN 3 (Home)** oluşturuldu.
-- Port atamaları yapılarak aynı VLAN içindeki cihazların haberleşmesi, farklı VLAN'ların izolasyonu sağlandı.
-
-### Project 2 - Static Routing Between Two Networks
-İki farklı LAN, iki router üzerinden statik rotalar tanımlanarak birbirine bağlandı.
-- Subnet mask hesaplamaları ve `ip route` komutları ile manuel yönlendirme tablosu oluşturuldu.
-
-### Project 3 - Dynamic Routing (RIP v2)
-Routerlar arasında ağ bilgilerinin otomatik öğrenilmesi sağlandı.
-- RIP v2 protokolü yapılandırıldı.
-- Convergence (yakınsama) süreci ve routing table dinamikleri gözlemlendi.
 
 ### Project 4 - Inter-VLAN Routing (Router-on-a-Stick) & VTP
 Kurumsal bir ağ yapısını simüle eden en kapsamlı projedir.
