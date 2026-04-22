@@ -19,6 +19,12 @@ Bu proje, Cisco Packet Tracer kullanılarak tasarlanmış bir ağ altyapısı ç
 ##  Yapılandırma Dosyaları
 Cihazların detaylı `running-config` dökümlerine `configs/` klasöründen ulaşabilirsiniz.
 
+## Kullanılan Araçlar
+-Cisco Packet Tracer
+-Cisco 1841 Router
+-2960 Catalyst Switches
+-Server-PT & PC-PT istemciler
+
 ##  Test Sonuçları
 Tüm VLAN'lar arası ping testleri ve Server erişimi başarıyla doğrulanmıştır.
 
