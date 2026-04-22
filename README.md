@@ -109,7 +109,6 @@ Tüm projelerde aşağıdaki "Hardening" adımları uygulanmıştır:
 
 ---
 
-# Proje 4'ü yakın zamanda ekleyeceğim.
 
 ## Not
 Bu repo zamanla yeni Cisco projeleriyle genişletilecektir.
