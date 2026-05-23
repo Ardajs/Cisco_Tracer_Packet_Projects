@@ -153,5 +153,21 @@ PC → Switch Ping başarılı
 PC → Switch Telnet bağlantısı başarılı  
 Uzak erişim doğrulandı
 
+---
+
+###  Project 6 — Router DHCP Configuration
+
+Bu projede router üzerinde DHCP yapılandırılmış ve istemcilerin IP adreslerini otomatik alması sağlanmıştır.
+
+**Uygulanan Konular**
+
+- DHCP
+- DHCP Pool
+- Default Gateway
+- Otomatik IP dağıtımı
+- Router yapılandırması
+
+
+
 ## Not
 Bu repo zamanla yeni Cisco projeleriyle genişletilecektir.
