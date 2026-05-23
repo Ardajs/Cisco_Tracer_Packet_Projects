@@ -109,6 +109,49 @@ Tüm projelerde aşağıdaki "Hardening" adımları uygulanmıştır:
 
 ---
 
+###  Project 5 — Basic Switch Configuration & Remote Management
+
+Bu projede bir Cisco switch üzerinde temel yapılandırmalar gerçekleştirilmiş ve uzaktan yönetim için Telnet erişimi yapılandırılmıştır.
+
+Switch yönetimi için ayrı bir yönetim VLAN'ı oluşturulmuş, IP adresi atanmış ve istemci bilgisayar üzerinden uzaktan bağlantı test edilmiştir.
+
+**Uygulanan Konular**
+
+- Switch temel yapılandırması
+- Hostname tanımlama
+- Management VLAN yapılandırması
+- IP adresleme
+- Default Gateway tanımlama
+- Console ve VTY güvenliği
+- Telnet ile uzaktan erişim
+- Şifreleme yapılandırmaları
+
+ Klasör:
+
+```text
+project-05-basic-switch-configuration/
+```
+
+**Kullanılan Cihazlar**
+
+- Cisco 2960 Switch
+- PC-PT
+- Cisco Packet Tracer
+
+**Yapılandırılan Özellikler**
+
+- Hostname → `S1`
+- Management VLAN → `VLAN 99`
+- Switch IP → `192.168.1.2/24`
+- Default Gateway → `192.168.1.1`
+- Telnet erişimi → Etkin
+- Şifreleme → `service password-encryption`
+
+**Doğrulama Testleri**
+
+PC → Switch Ping başarılı  
+PC → Switch Telnet bağlantısı başarılı  
+Uzak erişim doğrulandı
 
 ## Not
 Bu repo zamanla yeni Cisco projeleriyle genişletilecektir.
