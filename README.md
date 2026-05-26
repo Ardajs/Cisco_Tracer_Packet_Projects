@@ -168,6 +168,20 @@ Bu projede router üzerinde DHCP yapılandırılmış ve istemcilerin IP adresle
 - Router yapılandırması
 
 
+###  Project 7 — Switch DHCP Configuration
+
+Bu projede switch üzerinde DHCP servisi yapılandırılmış ve istemcilerin otomatik IP alması sağlanmıştır.
+
+**Uygulanan Konular**
+
+- DHCP
+- DHCP Pool
+- Switch Management IP
+- Otomatik IP dağıtımı
+- Layer 2 cihaz yapılandırması
+
+
+
 
 ## Not
 Bu repo zamanla yeni Cisco projeleriyle genişletilecektir.
