@@ -182,6 +182,20 @@ Bu projede switch üzerinde DHCP servisi yapılandırılmış ve istemcilerin ot
 
 
 
+###  Project 8 — Router DHCP Configuration with Multiple Clients
+
+Bu projede router üzerinde DHCP servisi yapılandırılmış ve aynı yerel ağdaki birden fazla istemcinin otomatik IP alması sağlanmıştır.
+
+**Uygulanan Konular**
+
+- DHCP
+- DHCP Pool
+- Default Gateway
+- DNS dağıtımı
+- Çoklu istemci IP dağıtımı
+- LAN içi ping testi
+
+
 
 ## Not
 Bu repo zamanla yeni Cisco projeleriyle genişletilecektir.
