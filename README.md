@@ -196,6 +196,22 @@ Bu projede router üzerinde DHCP servisi yapılandırılmış ve aynı yerel ağ
 - LAN içi ping testi
 
 
+###  Project 9 — Mail Server Configuration (SMTP & POP3)
+
+Bu projede bir mail sunucusu yapılandırılmış ve istemciler arasında e-posta iletişimi sağlanmıştır.
+
+SMTP ve POP3 servisleri kullanılarak kullanıcı hesapları oluşturulmuş, istemciler mail sunucusuna bağlanmış ve başarılı şekilde e-posta gönderip almıştır.
+
+**Uygulanan Konular**
+
+- Mail Server
+- SMTP
+- POP3
+- E-mail Client Configuration
+- Router Configuration
+- LAN Routing
+- Network Services
+
 
 ## Not
 Bu repo zamanla yeni Cisco projeleriyle genişletilecektir.
