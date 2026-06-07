@@ -78,8 +78,8 @@ user2
 
 ### Aktif Servisler
 
-- SMTP Service ✅
-- POP3 Service ✅
+- SMTP Service 
+- POP3 Service 
 
 ---
 
