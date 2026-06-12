@@ -213,5 +213,20 @@ SMTP ve POP3 servisleri kullanılarak kullanıcı hesapları oluşturulmuş, ist
 - Network Services
 
 
+###  Project 10 — HTTP Web Server Configuration
+
+Bu projede HTTP servisi kullanılarak basit bir web sunucusu yapılandırılmıştır.
+
+Sunucu üzerinde HTML sayfaları oluşturulmuş, istemci cihaz üzerinden web tarayıcısı ile bu sayfalara erişim sağlanmıştır.
+
+**Uygulanan Konular**
+
+- HTTP Server
+- Web Server Configuration
+- HTML sayfası oluşturma
+- Router arayüz yapılandırması
+- İstemci-sunucu iletişimi
+- Web Browser testi
+
 ## Not
 Bu repo zamanla yeni Cisco projeleriyle genişletilecektir.
