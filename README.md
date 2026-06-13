@@ -227,6 +227,6 @@ Sunucu üzerinde HTML sayfaları oluşturulmuş, istemci cihaz üzerinden web ta
 - Router arayüz yapılandırması
 - İstemci-sunucu iletişimi
 - Web Browser testi
-
+- 
 ## Not
 Bu repo zamanla yeni Cisco projeleriyle genişletilecektir.
